@@ -1,0 +1,5 @@
+@startuml Hacendado
+class Hacenmusic {
+    - Titulo String
+    -
+}
